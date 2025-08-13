@@ -1,29 +1,41 @@
 # ✈️ Airline Analytics Dashboard
 
-![GitHub repo size](https://img.shields.io/github/repo-size/VAIBHAVKARALE1011/Airline-Analytics)
-![GitHub last commit](https://img.shields.io/github/last-commit/VAIBHAVKARALE1011/Airline-Analytics)
-![GitHub stars](https://img.shields.io/github/stars/VAIBHAVKARALE1011/Airline-Analytics?style=social)
-![GitHub forks](https://img.shields.io/github/forks/VAIBHAVKARALE1011/Airline-Analytics?style=social)
+## 📊 Project Overview
+
+This project delivers **data-driven insights for airline performance** by analyzing flight records. Key findings include:  
+- **Revenue trends by day, airline, and class**  
+- **Ticket price analysis for Business vs Economy class**  
+- **Flight distribution by airline, city pairs, and stop types**  
+- **KPIs: Total Revenue, Total Flights, Average Ticket Price**  
+
+The dataset is cleaned, transformed, and prepared in **Python**, while dashboards in **Power BI** present results interactively.  
 
 ---
 
-## 📌 Project Overview  
-This project analyzes airline flight data and provides **interactive dashboards** to visualize trends, performance, and insights using **Python** and **Power BI**.  
+## 🛠 Tech Stack
 
-Key outcomes:  
-- Data cleaning and preprocessing with Python (Pandas, Jupyter Notebook)  
-- Visual analytics with Power BI dashboards  
-- Actionable KPIs for airline performance monitoring  
+### **Programming & Data Processing**
+- **Python**  
+- **Pandas** – data manipulation and cleaning  
+- **NumPy** – numerical computations  
+- **Jupyter Notebook** – development and documentation  
 
----
+### **Visualization**
+- **Power BI** – interactive dashboard design and reporting  
 
-## 🛠 Tech Stack  
-- **Languages:** Python (Pandas, NumPy)  
-- **Visualization:** Power BI  
-- **Development Tools:** Jupyter Notebook, Git  
-- **Version Control:** GitHub  
+### **Data Source**
+- **CSV file (`airlines_flights_data.csv`)** containing flight schedules, routes, fares, and revenue data.  
 
 ---
+
+## 📂 Dataset
+- **File:** `airlines_flights_data.csv`  
+- **Size:** ~23 MB  
+- **Contents:**  
+  - Airline name, flight number, source and destination cities  
+  - Departure/arrival timing, stop type (non-stop, one stop, multi-stop)  
+  - Ticket price, class (Business/Economy), revenue contribution  
+
 
 ## 📊 Dashboard Preview  
 
