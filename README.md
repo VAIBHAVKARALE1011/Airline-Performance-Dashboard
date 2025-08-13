@@ -28,10 +28,10 @@ Key outcomes:
 ## 📊 Dashboard Preview  
 
 ### Dashboard Page 1  
-![Dashboard Page 1](Dashboard_Page-1.png)  
+![Dashboard Page 1](Dashboard_Page-2.png)  
 
 ### Dashboard Page 2  
-![Dashboard Page 2](Dashboard_Page-2.png)  
+![Dashboard Page 2](Dashboard_Page-1.png)
 
 ---
 
